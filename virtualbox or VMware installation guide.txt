@@ -1,0 +1,9 @@
+This guide will take you through the installaton proceess of Distro-D5500 as a virtual machine on virtualbox or VMware
+These will be the requirments to install Distro-D5500 as a VM
+1. type = ubuntu(x32 bit) Linux
+2. base memory = 3072 M.B. (3 G.B.) for smooth functioning of Distro-D5500.
+note: Host systems with low memory can even allot 1024 M.B. (1 G.B.) of ram which will be more than enough for Distro-D5500 at this phase as it won't eat ram more that 500 M.B.
+3. hard disk size 30 G.B. recomended for developers others will be fine with even 8 G.B. of space.
+4. CPU/CPU cores depends completly on you but the recomended is atleast 1 core.
+5. the installation process will not require internet connection.
+6. Distro-D5500 is linked to ubuntu repositiries and hence all the ubuntu packages can be installed.
