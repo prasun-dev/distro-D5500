@@ -1,0 +1,8 @@
+for installing Distro-D5500 as a host machine follow these steps
+1. clone the repository or download the zip file of the repository and then unzip it.
+2. download rufus or balena etcher.
+3. insert a usb flash drive (recomended 2 G.B.)
+3. burn the iso.
+4. boot into the flashdrive.
+5. install.
+6. follow the GUI instructions.

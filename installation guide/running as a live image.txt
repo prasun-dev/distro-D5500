@@ -1,0 +1,10 @@
+1. download rufus
+2. insert a flashdrive recomended size (8 G.B.) 
+3. run rufus
+4. Select the Distro-D5500 .iso image.
+5. slide the persistence bar to the extreme right
+6. start the burning process
+NOTE: the persistence method is not yet tested completly for bugs but the image will run live
+7. sudo credintials for live image
+user name: prasun
+password: prasun
