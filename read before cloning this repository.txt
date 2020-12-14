@@ -1,11 +1,17 @@
-please follow this guide before cloning this distro.
-if git clone is showing some error than follow these steps
-For Git users
-1. download and run git lfs
-2. run the lfs service by using "git lfs install"
-3. clone the repository by using "git lfs clone https://github.com/prasun-dev/distro-D5500.git"
+Please follow this guide before cloning this distro.
+
+If git clone is showing some error than follow these steps
+
 
 For non-Git users
-1. download the project as a zip file and then extract it
-2. read the installation guide
-3. install as a Virtual machine or as a Host operating system
+1. Download the project as a zip file and then extract it
+2. Read the installation guide
+3. Install as a Virtual machine or as a Host operating system
+
+
+For Git users
+1. Download and run git lfs
+2. Run the lfs service by using "git lfs install"
+3. Clone the repository by using "git lfs clone https://github.com/prasun-dev/distro-D5500.git"
+
+
